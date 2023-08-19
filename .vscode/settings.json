@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "database": "${workspaceFolder:rosatom_rest}/db.sqlite3",
+      "name": "a"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
